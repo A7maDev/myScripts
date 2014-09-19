@@ -1,4 +1,4 @@
-:: Creates a symbolic link for directory on Windows
+:: Creates a symbolic link for directory on Windows (Run it as administrator)
 :: Written by A7maDev
 :: 19/09/014
 
